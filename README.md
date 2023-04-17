@@ -1,15 +1,17 @@
 # Information-Retrieval-and-Text-Mining
 
+All Tutorials are created on Google Colab to show how to perform certain
+operations.
 
 ## Overview Tutorials
-* 01 IRTM Tokenization 
-* 04 IRTM Measuring Quality in IRTM
-* 05 IRTM Document Representation in IRTM
-* 06 IRTM Search Engines 
-* 08 IRTM Preprocessing
-* 11 IRTM Information Extraction
-* 15a IRTM Data Set Creation in IRTM
-* 15b IRTM XAI in IRTM
+* IRTM Tokenization 
+* IRTM Measuring Quality in IRTM
+* IRTM Document Representation in IRTM
+* IRTM Search Engines 
+* IRTM Preprocessing
+* IRTM Information Extraction
+* IRTM Data Set Creation in IRTM
+* IRTM XAI in IRTM
 
 ## Installation
 The program is in Jupyter Notebook using Python <br />
