@@ -1,6 +1,6 @@
 # Information-Retrieval-and-Text-Mining
 
-All Tutorials are created on Google Colab to show how to perform certain
+All Tutorials are created on Google Colab and their aim is to show how to perform certain
 operations.
 
 ## Overview Tutorials
